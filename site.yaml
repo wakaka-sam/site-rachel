@@ -13,15 +13,15 @@ company:
   icp: ""  # 备案号，可为空
 
 theme:
-  primary_color: "#1a56db"
-  secondary_color: "#e1effe"
+  primary_color: "#f97316"
+  secondary_color: "#06b6d4"
   font: "sans-serif"
 
 hero:
   title: "欢迎来到示例科技"
   subtitle: "我们致力于为企业提供高效、智能的数字化解决方案"
   cta_text: "联系我们"
-  cta_link: "/about#contact"
+  cta_link: "https://wakaka-sam.github.io/site-rachel/contact"
 
 services:
 - name: "产品咨询"
